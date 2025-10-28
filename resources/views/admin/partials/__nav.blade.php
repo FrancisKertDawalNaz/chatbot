@@ -64,7 +64,7 @@
   </div>
 </header>
 
-<aside id="sidebar" class="offcanvas offcanvas-start bg-white shadow" tabindex="-1">
+<aside id="sidebar" class="offcanvas offcanvas-start bg-white shadow" tabindex="-1" style="width: 210px;">
   <div class="offcanvas-header d-lg-none">
     <h5 class="offcanvas-title">Menu</h5>
     <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"></button>

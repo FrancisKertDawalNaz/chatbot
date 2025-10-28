@@ -1,7 +1,6 @@
 @include('partials.__header')
 
 <main>
-    @include('partials.__nav')
 
     <!-- Main Section -->
     <div class="container d-flex justify-content-center align-items-center min-vh-100">

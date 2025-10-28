@@ -27,7 +27,7 @@ use App\Models\SchoolYearModel;
 
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('chatbot');
 })->name('home')->middleware('redirect.nonlogin');
 
 

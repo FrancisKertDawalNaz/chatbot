@@ -1,8 +1,7 @@
 @include('admin.partials.__header')
 @include('admin.partials.__nav')
 
-<main id="main" class="main dashboard">
-
+<main id="main" class="main dashboard d-lg-block" style="margin-left: 200px;">
     <div class="pagetitle">
         <h1>Dashboard Overview</h1>
         <nav>
